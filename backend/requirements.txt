@@ -1,0 +1,6 @@
+express
+cors
+mongoose
+dotenv
+http
+socketio
